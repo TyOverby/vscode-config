@@ -1,0 +1,39 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.dragAndDrop": true,
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 100,
+    "editor.minimap.renderCharacters": false,
+    "editor.tabCompletion": true,
+    "editor.wordBasedSuggestions": false,
+    "extensions.autoUpdate": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "vim.hlsearch": false,
+    "vim.leader": ",",
+    "vim.useCtrlKeys": true,
+    "vim.useSystemClipboard": true,
+    "window.openFilesInNewWindow": true,
+    "window.restoreFullscreen": true,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": true,
+    "[cpp]": {
+        "editor.quickSuggestions": false
+    },
+    "[c]": {
+        "editor.quickSuggestions": false
+    },
+    "implicit.lintLocation": "/Users/tyoverby/workspace/rust/implicit-gpu/target/debug/impl-validator"
+}
