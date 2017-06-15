@@ -9,7 +9,7 @@ git clone git@github.com:TyOverby/vscode-config.git %APPDATA%\Code\User
 
 ```
 rm -rf "$HOME/Library/Application Support/Code/User"
-git clone git@github.com:TyOverby/vscode-config.git $HOME/Library/Application Support/Code/User
+git clone git@github.com:TyOverby/vscode-config.git "$HOME/Library/Application Support/Code/User"
 ```
 
 # Linux 
