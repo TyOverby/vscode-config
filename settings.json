@@ -23,17 +23,16 @@
     "vim.leader": ",",
     "vim.useCtrlKeys": true,
     "vim.useSystemClipboard": true,
-    "window.openFilesInNewWindow": true,
+    "window.openFilesInNewWindow": "on",
     "window.restoreFullscreen": true,
     "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "Default Light+",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.statusBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "omnisharp.projectLoadTimeout": 300,
     "[cpp]": {
         "editor.quickSuggestions": false
     },
     "[c]": {
         "editor.quickSuggestions": false
     },
-    "implicit.lintLocation": "/Users/tyoverby/workspace/rust/implicit-gpu/target/debug/impl-validator"
+    "window.menuBarVisibility": "toggle"
 }
